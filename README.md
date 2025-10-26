@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 ## Folder Structure
 ```bash
-rag-smart-assistant/
+SmartDesk/
 │
 ├─ app.py                  # Main Streamlit app
 ├─ requirements.txt        # Python dependencies
